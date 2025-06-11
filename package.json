@@ -9,7 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "framer-motion": "^12.17.0",
     "gsap": "^3.13.0",
     "html2canvas": "^1.4.1",
     "react": "19.0.0-rc-b57d2823-20240822",
