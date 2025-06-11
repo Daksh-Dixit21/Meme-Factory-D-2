@@ -1,0 +1,36 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# build output
+/dist
+/build # In case you use a different build tool or configure Vite to output here
+
+# production
+/coverage # Test coverage reports
+
+# environment variables
+.env
+.env.*.local
+.env.local
+
+# misc
+.DS_Store # macOS specific
+.eslintcache # ESLint cache file
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.idea/ # IntelliJ IDEA specific
+.vscode/ # VS Code specific (uncomment to ignore all VS Code settings)
+# .vscode/*.code-workspace # Uncomment this if you want to ignore workspace files
+*.log
+*.tgz
+*.zip
+*.rar
+.npm
+.yarn-integrity
+*.sass-cache/
+
+# Vite specific
+.vite/ # Vite's internal cache directory
